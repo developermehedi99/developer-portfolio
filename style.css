@@ -187,3 +187,12 @@ section.about {
     font-weight: 700;
     line-height: 30px;
 }
+
+/* what i do seaction */
+.what-i-do{
+    padding: 130px 0;
+}
+
+.skill-container{
+    display: flex;
+}

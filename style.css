@@ -189,10 +189,52 @@ section.about {
 }
 
 /* what i do seaction */
-.what-i-do{
+.what-i-do {
     padding: 130px 0;
 }
 
-.skill-container{
+.skill-container {
     display: flex;
+}
+
+/* resume section */
+.resu-ti {
+    text-align: center;
+    margin: 130px 0 113px 0;
+}
+
+.resume {
+    display: flex;
+    justify-content: space-between;
+    gap: 71px;
+}
+
+.left-resume hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.left-resume h2 {
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+    padding-bottom: 30px;
+}
+.left-resume h3{
+    color: #474747;
+font-size: 25px;
+font-weight: 700;
+}
+.left-resume h4{
+    color:  #757575;
+font-size: 20px;
+font-weight: 600;
+padding-top: 10px;
+padding-bottom: 20px;
+}
+.left-resume p{
+    color: #757575;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
 }
